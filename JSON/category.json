@@ -1,0 +1,17 @@
+[{
+    "id" : 1,
+    "categoryName":"Highs"
+},
+{
+    "id" : 2,
+    "categoryName":"Mid"
+},
+{
+    "id" : 3,
+    "categoryName":"Low"
+},
+{
+    "id" : 4,
+    "categoryName":"Sliders"
+}
+]
